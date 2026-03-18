@@ -15,7 +15,8 @@ export async function POST(req: Request) {
     // Use one of the models from your list
     // I recommend gemini-2.5-flash as it's the latest stable version
     const model = genAI.getGenerativeModel({ 
-      model: "models/gemini-2.5-flash" // This is confirmed working from your list
+      // model: "models/gemini-2.5-flash" 
+      model: "models/gemini-3.1-flash-lite-preview"
     });
 
     let prompt = "";
