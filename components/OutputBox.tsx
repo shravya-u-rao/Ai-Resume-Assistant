@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import ReactMarkdown from 'react-markdown';
 
 export default function OutputBox({ 
   output, 
@@ -29,8 +30,10 @@ export default function OutputBox({
   }, [output]);
 
   return (
-    <div className="whitespace-pre-wrap leading-relaxed">
-      {displayedText}
+    <div className="whitespace-pre-wrap leading-relaxed prose prose-invert max-w-none">
+      <ReactMarkdown>
+        {displayedText}
+      </ReactMarkdown>
     </div>
   );
 }
