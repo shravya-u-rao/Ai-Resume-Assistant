@@ -5,7 +5,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8?logo=tailwind-css)](https://tailwindcss.com/)
 [![Google Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-8e75b2?logo=google)](https://deepmind.google/technologies/gemini/)
 
-An intelligent resume enhancement tool powered by Google's Gemini 2.5 Flash AI. Transform your resume with professional improvements, generate powerful bullet points, and get relevant skill suggestions - all in one place.
+An intelligent resume enhancement tool powered by Google's Gemini 3.1 Flash AI. Transform your resume with professional improvements, generate powerful bullet points, and get relevant skill suggestions - all in one place.
 
 ## ✨ Features
 
@@ -13,22 +13,14 @@ An intelligent resume enhancement tool powered by Google's Gemini 2.5 Flash AI. 
 - **🎯 Bullet Point Generator** - Convert your experience into strong, achievement-oriented bullet points
 - **💡 Skill Suggestions** - Receive relevant technical skills based on your job description or current expertise
 - **📋 One-Click Copy** - Instantly copy generated content to clipboard
-- **⚡ Fast Processing** - Powered by Google's Gemini 2.5 Flash for quick, high-quality responses
+- **⚡ Fast Processing** - Powered by Google's Gemini 3.1 Flash for quick, high-quality responses
 - **🎨 Modern UI** - Clean, responsive design with real-time feedback
 
 ## 🎥 Demo
 
-Check out the AI Resume Assistant in action:
-
-(https://github.com/user-attachments/assets/31027f30-6a5d-4ee5-9101-5416b9a4c96e)
-
-*Click the image above to watch the demo video*
-
 ### Screen Recording Preview
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_FILE_NAME
-
-*Replace with your actual screen recording link*
+https://github.com/user-attachments/assets/58b61e9a-b707-4c26-9b57-d202a8287a3b
 
 ## 🚀 Quick Start
 
