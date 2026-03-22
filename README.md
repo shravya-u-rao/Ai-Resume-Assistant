@@ -3,7 +3,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-16.1-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8?logo=tailwind-css)](https://tailwindcss.com/)
-[![Google Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-8e75b2?logo=google)](https://deepmind.google/technologies/gemini/)
+[![Google Gemini](https://img.shields.io/badge/Gemini-3.1%20Flash-8e75b2?logo=google)](https://deepmind.google/technologies/gemini/)
 
 An intelligent resume enhancement tool powered by Google's Gemini 3.1 Flash AI. Transform your resume with professional improvements, generate powerful bullet points, and get relevant skill suggestions - all in one place.
 
